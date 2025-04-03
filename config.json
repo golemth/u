@@ -2,7 +2,7 @@
     "initial_parameters": 3,
     "initial_threads": "900",
     "initial_packets": "13",
-    "initial_binary": "ninja",
+    "initial_binary": "golemop",
     "max_attack_time": 900,
     "attack_cooldown": 100
 }
