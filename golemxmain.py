@@ -17,7 +17,7 @@ from typing import Optional
 
 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('7448467310:AAFDMLHAUvZxcMc36A2TnMQ0z87P9yA6eME')
+bot = telebot.TeleBot('8175288335:AAFWmY-aeeLeX8ETmATLBg6cHxEbKTQCR4w')
 
 # Insert your admin id here
 admin_id = ["7792814115"]
